@@ -56,28 +56,28 @@ nav a:hover {
 }
 
 .content-container.rock {
-  background-image: url('../images/periphery.jpg');
+  background-image: url('../periphery.jpg');
   width: 100%;
   background-size: cover;
   background-position: center;
 }
 
 .content-container.pop {
-  background-image: url('../images/pop_wallpaper.jpg');
+  background-image: url('../pop_wallpaper.jpg');
   width: 100%;
   background-size: cover;
   background-position: center;
 }
 
 .content-container.trap {
-  background-image: url('../images/travis_scott.jpg');
+  background-image: url('../travis_scott.jpg');
   width: 100%;
   background-size: cover;
   background-position: center;
 }
 
 .content-container.contato {
-  background-image: url('../images/show.jpg');
+  background-image: url('../show.jpg');
   width: 100%;
   background-size: cover;
   background-position: center;
