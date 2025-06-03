@@ -157,3 +157,35 @@ footer {
   background-color: rgba(0, 0, 0, 0.9);
   color: #fff;
 }
+
+.img-direita {
+    width: 47%;
+    float: right;
+    margin: 10px;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+.img-esquerda {
+    width: 47%;
+    float: left;
+    margin: 10px;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+.yt-esquerda {
+    width: 47%;
+    float: left;
+    margin: 10px;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+.yt-direita {
+    width: 47%;
+    float: right;
+    margin: 10px;
+    border: 3px solid white;
+    border-radius: 10px;
+}
