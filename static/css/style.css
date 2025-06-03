@@ -49,35 +49,35 @@ nav a:hover {
 }
 
 .content-container.home {
-  background-image: url('static/images/rock_in_rio.jpg');
+  background-image: url('../images/rock_in_rio.jpg');
   width: 100%;
   background-size: cover;
   background-position: center;
 }
 
 .content-container.rock {
-  background-image: url('static/images/periphery.jpg');
+  background-image: url('../images/periphery.jpg');
   width: 100%;
   background-size: cover;
   background-position: center;
 }
 
 .content-container.pop {
-  background-image: url('static/images/pop_wallpaper.jpg');
+  background-image: url('../images/pop_wallpaper.jpg');
   width: 100%;
   background-size: cover;
   background-position: center;
 }
 
 .content-container.trap {
-  background-image: url('static/images/travis_scott.jpg');
+  background-image: url('../images/travis_scott.jpg');
   width: 100%;
   background-size: cover;
   background-position: center;
 }
 
 .content-container.contato {
-  background-image: url('static/images/show.jpg');
+  background-image: url('../images/show.jpg');
   width: 100%;
   background-size: cover;
   background-position: center;
